@@ -20,7 +20,10 @@ Declare a variable product to array and compute array1*array2
 ### Step 8:
 Print the value of the product
 
-## PROGRAM: 
+## PROGRAM:
+'''
+Developed By Name:S.Meena,Ref No:21500895
+```
 import numpy as np
 l1,l2 =[],[]
 n=int(input())
@@ -32,6 +35,7 @@ value1 = np.array(l1)
 value2 = np.array(l2)
 result=value1*value2
 print("Product of two arrays is:",result)
+```
 ## OUTPUT:
 ![Screenshot (113)](https://user-images.githubusercontent.com/94677128/153771140-e0ed54a0-f6d8-4e0a-b0fb-3e2a8a3fb974.png)
 
